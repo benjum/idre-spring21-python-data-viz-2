@@ -1,5 +1,5 @@
 import ipywidgets
-dinodf = pd.read_csv('/home/jovyan/non-workshop/data-viz-041321-2/data/DatasaurusDozen.tsv',sep='\t')
+dinodf = pd.read_csv('data/DatasaurusDozen.tsv',sep='\t')
 
 def chartosaurus(dataset='dino'):
     localdf = dinodf[dinodf.dataset==dataset]

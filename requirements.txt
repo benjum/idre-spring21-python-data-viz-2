@@ -11,4 +11,4 @@ dash
 jupyter-dash
 altair
 altair_latimes
-
+vega_datasets
