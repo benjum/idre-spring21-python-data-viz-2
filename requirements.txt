@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+ipywidgets
+pandas
+seaborn
+plotly
+bqplot
+voila
+dash
+jupyter-dash
+altair
+altair_latimes
+
